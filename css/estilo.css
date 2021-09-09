@@ -1,0 +1,50 @@
+body{
+  background-image: url(../paisagem.jpg);
+  background-repeat: round;
+}
+
+.container{
+
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+header,footer{
+
+  background: rgba(105,89,205,0.5);
+  padding: 3%;
+}
+         
+h1,h2{
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+ } 
+
+
+p{
+  color:   #0000FF;
+  font-weight: bold;
+  font-size:  20px;
+  text-align: justify;
+  }
+
+
+ul li{
+ text-decoration: underline;
+ color: #fff;
+ font-weight: bold;
+  }
+
+ figure{
+ text-align: center;
+
+
+ }
+
+ img{
+ border: 5px dashed #fff;
+ width: 50%; 
+
+ }
